@@ -1,11 +1,1 @@
-<repositories>
-		<repository>
-		    <id>jitpack.io</id>
-		    <url>https://jitpack.io</url>
-		</repository>
-	</repositories>
-<dependency>
-	    <groupId>com.github.NaphonJangjit</groupId>
-	    <artifactId>Matrix</artifactId>
-	    <version>f22ca53e7a</version>
-	</dependency>
+This is just matrix
